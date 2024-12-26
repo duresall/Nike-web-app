@@ -1,5 +1,4 @@
 import React from "react";
-import '../app.css'
 const ShoeCard = ({ imgUrl, changeBigshoeImage, bigshoeImage }) => {
   const handleClick = () => {
     if (bigshoeImage !== imgUrl) {
