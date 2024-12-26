@@ -4,7 +4,7 @@ A modern e-commerce website built with React and Tailwind CSS, featuring product
 
 ## 🚀 Live Demo
 
-[View Demo](https://duresaudesa.netlify.app/)
+[View Demo](https://duresaudessa.netlify.app/)
 
 ## ✨ Features
 
